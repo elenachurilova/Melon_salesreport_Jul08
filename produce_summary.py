@@ -1,3 +1,6 @@
+
+#OLD CODE
+
 # print("Day 1")
 # the_file = open("um-deliveries-20140519.txt")
 # for line in the_file:
@@ -42,6 +45,8 @@
 #         count, melon, amount))
 # the_file.close()
 
+
+#ADJUSTED CODE
 
 def melon_delivery_report():
     """Printing sales report from 3 files"""
